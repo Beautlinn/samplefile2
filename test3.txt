@@ -1,0 +1,1 @@
+THis a test file for checking during the text3.txt git file has how it works.
